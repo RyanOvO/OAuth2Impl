@@ -1,0 +1,12 @@
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\SscSign.pfx
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\oAuthCoreIdP.deps.json
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\oAuthCoreIdP.runtimeconfig.json
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\oAuthCoreIdP.runtimeconfig.dev.json
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\oAuthCoreIdP.dll
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\bin\Debug\netcoreapp1.0\oAuthCoreIdP.pdb
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.csprojAssemblyReference.cache
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.csproj.CoreCompileInputs.cache
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.AssemblyInfoInputs.cache
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.AssemblyInfo.cs
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.dll
+E:\Code\IdentityServer4_AuthorizationCode\IdentityServer4.Authorization.Code-master\oAuthCoreIdP\obj\Debug\netcoreapp1.0\oAuthCoreIdP.pdb
